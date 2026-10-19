@@ -1,1 +1,2 @@
 git push yapilacak yazi 
+bu satir yeni branch uzerinden eklendi 
